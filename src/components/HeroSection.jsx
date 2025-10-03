@@ -11,7 +11,7 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                         An IT professional bringing over a year of experience in the tech industry. I am dedicated to applying my knowledge in software engineering through the development of projects, addressing real-world challenges, and delivering meaningful contributions to every endeavor I undertake.
+                         An IT professional bringing over a year of experience in the tech industry. I am dedicated to applying my knowledge in software engineering, IT technical support, data entry and analysis through the development of projects, addressing real-world challenges, and delivering meaningful contributions to every endeavor I undertake.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
