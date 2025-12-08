@@ -83,7 +83,7 @@ export const AboutSection = () => {
 
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">Leadership</h4>
-                                    <p className="text-muted-foreground">Lead and mentored Technical Support Engineers, Interns, and Manufacturing Technicians, and collaborated with their projects that promote efficiency in their workflows and reduce company's expenses.</p>
+                                    <p className="text-muted-foreground">Mentored Technical Support Engineers, and Interns and collaborated with their projects that promote efficiency in their workflows and reduce company's expenses.</p>
                                 </div>
                             </div>
                         </div>
