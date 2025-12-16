@@ -16,7 +16,7 @@ export const AboutSection = () => {
                         <h3 className="text-2xl font-semibold">Passionate Web Developer, Engineer & IT Tech Support</h3>
 
                         <p className="text-muted-foreground">
-                            Despite the differences between my previous career as a professional chemical engineer, I successfully transitioned into my first role in tech, where I was responsible for addressing technical issues faced by clients using a web-based application. This application is a Software as a Service (SaaS) platform that functions as a Laboratory Information System (LIS), managing medical records and transactions for various medical institutions across the Philippines.
+                            Despite the differences between my previous career as a professional chemical engineer, I successfully transitioned into my first role in tech, where I was responsible for providing L1 and L2 application support faced by clients using a web-based application. This application is a Software as a Service (SaaS) platform that functions as a Laboratory Information System (LIS), managing medical records and transactions for various medical institutions across the Philippines.
                         </p>
 
                         <p className="text-muted-foreground">
@@ -31,7 +31,7 @@ export const AboutSection = () => {
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a
-                                href="https://drive.google.com/file/d/1HC4I2hh0iAy41ov5XGDRywZW353kT27u/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                                href="https://drive.google.com/file/d/1ApD3PSNoKfA0iwickQaK-mI9e0y__Qmo/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                             >
                                 {" "}
                                 Download Resume
@@ -57,7 +57,7 @@ export const AboutSection = () => {
 
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">IT Technical Support</h4>
-                                    <p className="text-muted-foreground">Provides exceptional solutions, integrated testing and first-level troubleshooting to address software issues raised by clients.</p>
+                                    <p className="text-muted-foreground">Provides exceptional L1 and L2 application support, integrated testing and first-level troubleshooting to address software issues raised by clients.</p>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ export const AboutSection = () => {
 
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">Leadership</h4>
-                                    <p className="text-muted-foreground">Mentored Technical Support Engineers, and Interns and collaborated with their projects that promote efficiency in their workflows and reduce company's expenses.</p>
+                                    <p className="text-muted-foreground">Mentored Technical Support Engineers, and Interns, collaborated with their projects that promote efficiency in their workflows and reduce company's expenses.</p>
                                 </div>
                             </div>
                         </div>
