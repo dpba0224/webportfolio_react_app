@@ -6,16 +6,20 @@ const skills = [
     // Programming Languages
     {name: "Java", category: "Programming Languages"},
     {name: "JavaScript", category: "Programming Languages"},
+    {name: "TypeScript", category: "Programming Languages"},
     {name: "Python", category: "Programming Languages"},
     {name: "C#", category: "Programming Languages"},
+    {name: "PHP", category: "Programming Languages"},
 
     // Front-End
     {name: "HTML", category: "Front-End Development"},
     {name: "Tailwind CSS", category: "Front-End Development"},
     {name: "Bootstrap", category: "Front-End Development"},
     {name: "React", category: "Front-End Development"},
+    {name: "Angular", category: "Front-End Development"},
     {name: "Nunjucks", category: "Front-End Development"},
     {name: "XML", category: "Front-End Development"},
+    {name: "WordPress", category: "Front-End Development"},
 
     // Back-End
     {name: "Node", category: "Back-End Development"},
@@ -30,6 +34,8 @@ const skills = [
     {name: "MySQL", category: "Databases"},
     {name: "MS SQL Server", category: "Databases"},
     {name: "PostgreSQL", category: "Databases"},
+    {name: "Java Persistence API (JPA)", category: "Databases"},
+    {name: "Hibernate", category: "Databases"},
     {name: "MongoDB", category: "Databases"},
 
     // Cloud Computing
@@ -45,6 +51,9 @@ const skills = [
     {name: "IntelliJ", category: "Tools"},
     {name: "Eclipse", category: "Tools"},
     {name: "Visual Studio Code", category: "Tools"},
+    {name: "Claude", category: "Tools"},
+    {name: "Gemini", category: "Tools"},
+    {name: "Cursor", category: "Tools"},
 
     // Other Skills
     {name: "SAP", category: "Other Skills"},

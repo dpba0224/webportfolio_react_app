@@ -27,19 +27,19 @@ const projects = [
     },
     {
         id: 4, 
+        title: "Mayette’s Rice Store and Baking Goods Inventory Management System", 
+        description: "A Full-Stack Application that helped the business to efficiently manage and document product inventory for customer sales. This includes user authentication, profile viewing, creation of components and business logic for products, product categories, suppliers, transactions, purchases and sold products for great documentation purposes.",
+        image: "/projects/projectcs.jpg",
+        tags: ["HTML", "CSS", "Angular", "TypeScript", "Spring Boot", "Spring Security", "JWT", "JPA", "Hibernate", "MySQL", "Postman"],
+        githubUrl: "https://github.com/dpba0224/mayette_inventory_springboot_app"
+    },
+    {
+        id: 5, 
         title: "SKY Perfumes", 
         description: "A Full-Stack Application which includes the E-commerce API using the MERN Stack (MongoDB, Express.js, React.js, Node.js).",
         image: "/projects/project02.png",
         tags: ["CSS", "Bootstrap", "React", "Node.js", "Express.js", "MongoDB", "Postman"],
         githubUrl: "https://github.com/dpba0224/mayette_ricestore_springboot_app"
-    },
-    {
-        id: 5, 
-        title: "Coming soon!", 
-        description: "Will fill up the details of the project once done.",
-        image: "/projects/projectcs.jpg",
-        tags: [],
-        githubUrl: "#"
     },
     {
         id: 6, 
