@@ -29,7 +29,7 @@ const projects = [
         id: 4, 
         title: "Mayette’s Rice Store and Baking Goods Inventory Management System", 
         description: "A Full-Stack Application that helped the business to efficiently manage and document product inventory for customer sales. This includes user authentication, profile viewing, creation of components and business logic for products, product categories, suppliers, transactions, purchases and sold products for great documentation purposes.",
-        image: "/projects/projectcs.jpg",
+        image: "/projects/project05.png",
         tags: ["HTML", "CSS", "Angular", "TypeScript", "Spring Boot", "Spring Security", "JWT", "JPA", "Hibernate", "MySQL", "Postman"],
         githubUrl: "https://github.com/dpba0224/mayette_inventory_springboot_app"
     },
