@@ -31,7 +31,7 @@ export const AboutSection = () => {
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a
-                                href="https://drive.google.com/file/d/1eBRtolz9Dr1u3fICcrbftQKQVmXN1lz0/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                                href="https://drive.google.com/file/d/1HWGGM51uu9jed7jAYs2Lqoy_elfzL-_7/view?usp=drive_link" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                             >
                                 {" "}
                                 Download Resume
